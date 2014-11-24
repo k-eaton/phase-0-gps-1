@@ -6,3 +6,4 @@
 
 [Meet your philosophers here!](https://www.youtube.com/watch?v=_f_p0CgPeyA)
 
+Philosophers suck.
